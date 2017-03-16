@@ -47,7 +47,7 @@ mvn spring-boot:run -Drun.jvmArguments="-Xdebug -Xrunjdwp:transport=dt_socket,se
 7. 配置拦截器的位置：
 > src/main/java/hello/interceptor/xxxx   and  src/main/java/config/ServletContextConfig
 
-
+8:xxd
 
 
 
